@@ -1,0 +1,22 @@
+.he:hover{
+    color: red;
+    
+}
+.lol{
+    padding: 0 0 0 280px;
+}
+.uk-card{
+    padding: 0 40px;
+}
+.he{
+    padding: 0 10px;
+}
+.aa{
+    padding: 6px;
+    background-color: rebeccapurple;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 5px;
+}
